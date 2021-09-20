@@ -1,0 +1,1 @@
+from usertable SELECT *
